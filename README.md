@@ -1,13 +1,16 @@
-# Team Name
+# Disc Finders
 
-Project description (~1 paragraph)
+All disc golfers will eventually throw a bad shot on the course.  Sometimes they are so bad, it can be difficult to find where the disc landed.  This project will be dedicated to helping speed up the search for lost discs, and prevent players from losing discs.  Our goal is to write an android based app which impliments RFID technology to accomplish this task.
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Timothy Beler
+* Corey Moura
 
 ## Prerequisites
 
+TBD
+
 ## Run Instructions
+
+TBD

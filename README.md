@@ -5,7 +5,7 @@ All disc golfers will eventually throw a bad shot on the course.  Sometimes they
 ## Team Members and Roles
 
 * Timothy Beler
-* Corey Moura
+* [Corey Moura](https://github.com/MouraCMichael/CIS350-HW2-Moura.git)
 
 ## Prerequisites
 

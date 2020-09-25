@@ -1,8 +1,10 @@
+# Project Proposal
+
 Team name: Disc Finders 
 
 Team members: Timothy Beler, Corey Moura
 
-# Introduction
+## Introduction
 
 The sport of disc golfing is played similarly to that of traditional golf.  Like golf, there are tee pads, fairways, roughs, boundaries, penalty strokes, and score is kept using the par, birdie, boggy method.  There are 18 holes in each course like traditional golf, and there is a “front 9” and a “back 9”.  But instead of a club and ball, the player throws a roughly 9” wide disc that has similar flight characteristics of a beach frisby except fly much further.  The discs are designed with physical differences that affect the flight characteristics.  These differences create 4 main subcategories: drivers, fairway drivers, midranges, and putters.  The goal of the sport is to throw the disc into a chain-link-type basket or also known as a target.
 
@@ -13,21 +15,21 @@ Discs are made in an assortment of colors.  Colors vary, but usually lean toward
 This proposal aims to develop an app which will help players find these otherwise lost discs.  The aim is to use light-weight, long range passive RFID stickers placed under the flight plate of the disc and a mobile device transmitter to produce a location tracking system.  The apps functionality aims to display location information to the player when the player is within range. 
 
 
-# Anticipated Technologies
+## Anticipated Technologies
 
 The exact method to achieve the end product is pending and will be based on available technology, compatibility, and cost.  Some of the currently discussed technologies include: Android Studio (app creation), Raspberry Pi (Link RFID to App), RFID Tags, Raspberry Pi, and  RFID Piggybacks.
 
 
-# Method/Approach
+## Method/Approach
 
 The foremost goal is researching available technology.  RFID is a growing technology and therefore may not be widely available for this application.  Next would be project planning, in which the specifications and requirements will be defined.  Once this is complete, the team can begin on writing the mobile application and hardware implementation.  Once implementation begins, and as soon as possible, testing will begin.  
 
-# Estimated Timeline
+## Estimated Timeline
 
 Hardware selection will be one of the biggest milestones.  It may take a couple weeks to research applicable, and available technologies for this project.  Additional checkpoints include: successfully interfacing the raspberry pie to the android app, and also passing RFID data to the app.  This will require approximately two months to complete with the teams current understanding.
 
 
-# Anticipated Problems
+## Anticipated Problems
 
 Long range RFID is a developing technology and there may not be a lot of piggybacks available for us to use in order to implement.  Additionally, there may be a lack of documentation for interfacing RFID with a raspberry pie, or to an android application.  The team's hope is to find hardware that comes with an SDK to make implementation smooth.
 

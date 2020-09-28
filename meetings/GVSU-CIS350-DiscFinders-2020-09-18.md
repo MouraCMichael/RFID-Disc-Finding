@@ -15,17 +15,17 @@ First meeting as a team regarding project goals, timelines, and workload. Plan o
 #### Group Work
 
 1. Elevator Pitch
-- Have you ever been disc golfing and lost your disc in the bushes?  We’ve got an app for that.
+    Have you ever been disc golfing and lost your disc in the bushes?  We’ve got an app for that.
 
 2. Plans for the project and why is it useful/important/cool
-- We would like to build an app that implements RFID technology in a smart phone in order to locate a disc golfers lost disc.  This app will theoretically eliminate the possibility of losing a disc and significantly reduce time spent on the course searching.  This app will leave the player feeling worry free when trying new shots, or throwing on “blind” holes.
+    We would like to build an app that implements RFID technology in a smart phone in order to locate a disc golfers lost disc.  This app will theoretically eliminate the possibility of losing a disc and significantly reduce time spent on the course searching.  This app will leave the player feeling worry free when trying new shots, or throwing on “blind” holes.
 
 3. Two features we plan on implementing
-- Log multiple RFID tags
+    Log multiple RFID tags
     - The ability for the user to pair the passive RFID tag to their smart phone through the app.  
     - The player should have a list of their discs in the app which the app can identify on the course.
 
-- User feedback while searching
+    User feedback while searching
     - The app should provide feedback for the user to determine if the user is getting closer or further from their lost disc.
 
 ##### Process for the project:

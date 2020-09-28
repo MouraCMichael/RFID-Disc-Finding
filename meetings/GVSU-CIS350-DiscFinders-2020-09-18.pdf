@@ -31,28 +31,28 @@ Have you ever been disc golfing and lost your disc in the bushes?  We’ve got a
     User feedback while searching
     - The app should provide feedback for the user to determine if the user is getting closer or further from their lost disc.
 
-##### Process for the project:
+#### Process for the project:
 - Iterative 
 - Throwaway Prototyping
 
-##### Proposed Semester Long Assignments - 
+#### Proposed Semester Long Assignments - 
 - Design App GUI
 - Manage RFID Technology
 - Implement RFID communications
 
-##### Where do we start on this project:
+#### Where do we start on this project:
 - Research the technology required
 - Become familiar with Android Studio and uploading the code onto Github
 
-##### Anticipated Technologies:
+#### Anticipated Technologies:
 - Corey is using homebrew; Tim is using Github Desktop/Git Bash
 - Java
 - Android Studio
 
-##### Methods/Approach
+#### Methods/Approach
 - Research Phase
 
-##### Estimated Timeline
+#### Estimated Timeline
 - Week 1 research available technologies
 
 Embedded Raspberry Pi vs Phone App
@@ -60,5 +60,5 @@ Embedded active RFID chip vs having a sticker
 
 
 
-##### Goals for next week (include responsibilities)
+#### Goals for next week (include responsibilities)
 

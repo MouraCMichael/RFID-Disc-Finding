@@ -1,3 +1,5 @@
+# Meeting Minutes 9/27/2020
+
 Team name: Disc Finders
 
 Members present: Timothy Beler, Corey Moura

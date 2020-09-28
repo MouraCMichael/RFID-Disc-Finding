@@ -14,7 +14,7 @@ Second meeting as a team regarding project workload, technology required, and wh
 
 * Requirements for the project and maintaining our scope to something achievable
 
->> * Whether or not we should have a GUI for this application or just have a simple LED flicker as we approach the signal
+> - Whether or not we should have a GUI for this application or just have a simple LED flicker as we approach the signal
 
 *
 

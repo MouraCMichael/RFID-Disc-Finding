@@ -12,7 +12,7 @@ First meeting as a team regarding project goals, timelines, and workload. Plan o
 
 ## Discussion points: 
 
-### Elevator Pitch:
+##### Elevator Pitch:
 - Have you ever been disc golfing and lost your disc in the bushes?  We’ve got an app for that.
 
 ### Plans for the project and why is it useful/important/cool:

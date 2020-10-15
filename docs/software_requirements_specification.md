@@ -19,9 +19,9 @@ The purpose of this document is to outline the features of the DiscFinders Appli
     1.1 The application shall easily pair with the RFID tag.  
     1.2 The application shall easily switch between RFID signals.  
     1.3 The application shall provide constant feedback to the user about the RFID tag.   
-2. Display:
+2. Display:  
     2.1 The display shall be easy to read.  
     2.2 The display shall noticeably change when near the device.  
-3. Momentary Switch:
+3. Momentary Switch:  
     3.1 The switch shall be in a location easy to press.  
     3.2 The switch shall be intuitive to use.  

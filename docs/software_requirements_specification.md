@@ -3,8 +3,8 @@
 The purpose of this document is to outline the features of the DiscFinders Application. The document provides the scope of the project for the developers and outlines the framework for its development. This document is intended for project team members and the instructor in CIS 350 at GVSU. 
 
 # Functional Requirements
-1. RFID compatibility:
-    1.1 The application shall detect an RFID signal.
+1. RFID compatibility:  
+    1.1 The application shall detect an RFID signal.  
     1.2 The application shall switch between multiple RFID signals.
 1. Display:
     1. The display shall display RFID tag name.

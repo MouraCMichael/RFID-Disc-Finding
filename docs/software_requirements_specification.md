@@ -4,8 +4,8 @@ The purpose of this document is to outline the features of the DiscFinders Appli
 
 # Functional Requirements
 1. RFID compatibility:
-    1. The application shall detect an RFID signal.
-    1. The application shall switch between multiple RFID signals.
+    1.1 The application shall detect an RFID signal.
+    1.2 The application shall switch between multiple RFID signals.
 1. Display:
     1. The display shall display RFID tag name.
     1. The display shall display when it is actively searching for the tag.

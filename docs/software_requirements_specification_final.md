@@ -33,6 +33,8 @@
 | FR14 |  A switch shall initiate the writing process                                    | TC1 |
 | FR15 |  A switch shall initiate a soft reset of the device                             | TC1 |  
 
+<br/><br/>
+
 ## Non-Functional Requirements 
 
 ### RFID Communication 

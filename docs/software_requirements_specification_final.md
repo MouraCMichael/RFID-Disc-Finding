@@ -4,7 +4,8 @@
 # Software Requirements
 <This section contains both the functional and non-functional requirements of this project. Each requirement is located under a specific category in either the functional of non-functional heading to which it applies.>  
 
-## Functional Requirements
+## Functional Requirements 
+
 ### RFID Communication 
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: | 
@@ -33,6 +34,7 @@
 | FR15 |  A switch shall initiate a soft reset of the device                             | TC1 |
 
 ## Non-Functional Requirements 
+
 ### RFID Communication 
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: | 

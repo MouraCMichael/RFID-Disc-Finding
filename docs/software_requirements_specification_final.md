@@ -5,14 +5,14 @@
 <This section contains both the functional and non-functional requirements of this project. Each requirement is located under a specific category in either the functional of non-functional heading to which it applies.>  
 
 ## Functional Requirements
-### < RFID Communication > 
+### RFID Communication 
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: | 
-| FR1 | < The device shall transmit data via RFID signal at 13.56Mhz > | TC1 | 
-| FR2 | < The device shall receive data via RFID signal of 13.56Mhz  > | TC2 | 
-| FR3 | < The device shall communicate to all NFC Data Exchange Formatted tags > | TC3 | 
-| FR4 | < The device shall communicate with multiple NDEF tags > | TC3 | 
-| FR5 | < The device shall communicate up to 10cm > | TC3 | 
+| FR1 |The device shall transmit data via RFID signal at 13.56Mhz | TC1 | 
+| FR2 |The device shall receive data via RFID signal of 13.56Mhz  | TC2 | 
+| FR3 |The device shall communicate to all NFC Data Exchange Formatted tags | TC3 | 
+| FR4 |The device shall communicate with multiple NDEF tags | TC3 | 
+| FR5 |The device shall communicate up to 10cm | TC3 | 
 
 ### < Display >
 | ID | Requirement | Test Cases |

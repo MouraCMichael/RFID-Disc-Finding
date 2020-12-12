@@ -31,7 +31,7 @@
 | FR12 |  A switch shall allow the user to toggle between reading and writing to a tag   | TBD |
 | FR13 |  A switch shall initiate the reading process                                    | TC1 |
 | FR14 |  A switch shall initiate the writing process                                    | TC1 |
-| FR15 |  A switch shall initiate a soft reset of the device                             | TC1 |
+| FR15 |  A switch shall initiate a soft reset of the device                             | TC1 |  
 
 ## Non-Functional Requirements 
 

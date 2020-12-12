@@ -67,17 +67,42 @@ This section contains both the functional and non-functional requirements of thi
 
 
 # Test Specification
-<Description of what this section is>
-## Unit tests
-(copy/paste the below table a minimum of 10 times) 
+
+This section outlines the unit, integration, and system test =s conducted on this project.  Each test reflects some aspect of the functional and non-functional requirements listed in the previous section.  A description of each test is provided along with the test input, expected output, actual output and whether or not the element in question passes the test.
+
+
+## Unit tests - Unit tests check tiny bits of functionality (function inputs/outputs, etc.) 
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| TC1 | <TC1 description> | <steps to execute TC1> | <input values to this test case> | <expected output as a result of test case> | <actual output of test case> | <did it pass or fail?> | <requirement IDs this test case is linked to> | 
-## Integration tests
-(copy/paste the above table a minimum of 5 times) ## System tests
-(copy/paste the above table a minimum of 5 times) # Software Artifacts
-<Describe the purpose of this section>
-* [I am a link](to_some_file.pdf) 
+| TC1   | Check LCD character display function | Send a set of parameters and check that the message is displayed on the LCD | 1, ST77XX_WHITE, 36, 57,   "TEST_1!" | "TEST_1!"  | "TEST_1!" | Pass | FR6, FR7, FR8, FR9, FR10 | 
+
+## Integration tests - Integration tests check for errors when you bring together two or more modules 
+| ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
+| :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| TC2   | The ‘B’ button on the LCD Shield initiates the RFID shield search process in appropriate state. | Highlight “Search For Disc” on Home Screen | Button Inputs | Searching Screen Appears | Searching Screen Appears | Pass| FR13 | 
+| TC3   | The “Up” button increments the ACSii value character displayed on the LCD        | Select “Change Disc Name” > press up on the joystick       | Button Inputs | ‘A’ , ‘B’, ‘C’,...    | ‘A’ , ‘B’, ‘C’,... ‘Z’  | Pass | NFR4 |
+| TC4   | The “Down” button decrements the ACSii value character displayed on the LCD  | Select “Change Disc Name” > press down on the joystick | Button Inputs | ‘@’ , ‘?’, ‘>’,...   | ‘@’ , ‘?’, ‘>’,...      | Pass | NFR4 |
+| TC5   | The “Left” button removes the current character on the LCD  | Select “Change Disc Name” > press Right on the joystick 3 times then press left on the joystick 2 times   | Button Inputs |  ‘A’ | ‘A’ | Pass | NFR4 | 
+| TC6   | The “Right” button increments the LCD cursor to the next character location       | Select “Change Disc Name” > press Right on the joystick 3 times | Button Inputs | “AAAA” | “AAAA”  | Pass | NFR4 | 
+
+
+## System tests - System tests check the system as a whole once everything is put together 
+| ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
+| :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| TC7   |  RFID initialization successful                 | Connect all components –  power on | N/A | “RFID Init Successful”       | “RFID Init Successful”      | Pass  | FR1, FR2, FR3, FR4, FR5  |
+| TC8   |  RFID shield initialization unsuccessful | Remove RFID shield – power on          | N/A | “RFID Init Unsuccessful”  | “RFID Init Unsuccessful” | Pass  | FR1, FR2, FR3, FR4, FR5  | 
+| TC9   |  LCD Shield initialization successful      | Connect all components –  power on  | N/A | “LCD Init Successful”        | “LCD Init Successful”       | Pass  | FR6, FR7, FR8, FR9, FR10|    
+| TC10   | LCD Shield initialization unsuccessful   | Remove LCD shield – power on          | N/A | “LCD Init Unsuccessful”   | “LCD Init Unsuccessful”  | Pass  | FR6, FR7, FR8, FR9, FR10 | 
+
+# Software Artifacts
+
+This section provides links to all of the software artifacts and project documentation.  The artifacts and documentation listed afford all associated project parties transparency into the project.  This section can be extremely important for research and development purposes, and sheds insight into reasonable timeline projections for future projects with similar system requirements.       
+
+* [https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Proposal.md](Project Proposal) 
+* []() 
+
+
+
 
 
 

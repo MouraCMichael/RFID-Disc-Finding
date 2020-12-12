@@ -65,6 +65,7 @@ This section contains both the functional and non-functional requirements of thi
 | NFR4 |  The switches must not interfere with reading the display    | TC6 | 
 | NFR5 |  The switch layout must be intuitive                         | TC6 | 
 
+<br/><br/>
 
 # Test Specification
 

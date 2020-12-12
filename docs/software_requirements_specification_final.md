@@ -3,7 +3,7 @@ The purpose of this document is to outline the features of the DiscFinders Appli
  
 # Software Requirements
 This section contains both the functional and non-functional requirements of this project. Each requirement is located under a specific category in either the functional of non-functional heading to which it applies. 
-
+<br/><br/>
 ## Functional Requirements 
 
 ### RFID Communication 

@@ -96,10 +96,9 @@ This section outlines the unit, integration, and system test =s conducted on thi
 
 # Software Artifacts
 
-This section provides links to all of the software artifacts and project documentation.  The artifacts and documentation listed afford all associated project parties transparency into the project.  This section can be extremely important for research and development purposes, and sheds insight into reasonable timeline projections for future projects with similar system requirements.       
+This section provides links to all of the software artifacts and project documentation.  The artifacts and documentation listed below afford all associated parties transparency into the project.  This section can be extremely important for research and development purposes, and sheds insight into reasonable timeline projections for future projects with similar system requirements.       
 
-* [https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Proposal.md](Project Proposal) 
-* []() 
+* (Project Proposal)[https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Proposal.md] 
 
 
 

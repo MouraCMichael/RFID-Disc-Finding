@@ -94,6 +94,8 @@ This section outlines the unit, integration, and system test =s conducted on thi
 | TC9   |  LCD Shield initialization successful      | Connect all components –  power on  | N/A | “LCD Init Successful”        | “LCD Init Successful”       | Pass  | FR6, FR7, FR8, FR9, FR10|    
 | TC10   | LCD Shield initialization unsuccessful   | Remove LCD shield – power on          | N/A | “LCD Init Unsuccessful”   | “LCD Init Unsuccessful”  | Pass  | FR6, FR7, FR8, FR9, FR10 | 
 
+<br/><br/>
+
 # Software Artifacts
 
 This section provides links to all of the software artifacts and project documentation.  The artifacts and documentation listed below afford all associated parties transparency into the project.  This section can be extremely important for research and development purposes, and sheds insight into reasonable timeline projections for future projects with similar system requirements.       

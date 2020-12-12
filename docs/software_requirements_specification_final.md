@@ -1,11 +1,11 @@
 # Overview 
-< The purpose of this document is to outline the features of the DiscFinders Application. The document provides the scope of the project for the developers and outlines the framework for its development. This document is intended for project team members and the instructor in CIS 350 at GVSU.>
+The purpose of this document is to outline the features of the DiscFinders Application. The document provides the scope of the project for the developers and outlines the framework for its development. This document is intended for project team members and the instructor in CIS 350 at GVSU.
  
 # Software Requirements
-<This section contains both the functional and non-functional requirements of this project. Each requirement is located under a specific category in either the functional of non-functional heading to which it applies.>  
+This section contains both the functional and non-functional requirements of this project. Each requirement is located under a specific category in either the functional of non-functional heading to which it applies. 
 
 ## Functional Requirements 
-
+<br/>
 ### RFID Communication 
 | ID | Requirement | Test Cases |
 | :------------- | :---------- | :---------- | 

@@ -8,7 +8,7 @@
 
 ### RFID Communication 
 | ID | Requirement | Test Cases |
-| :-------------: | :----------: | :----------: | 
+|  | :----------: | :----------: | 
 | FR1  |  The device shall transmit data via RFID signal at 13.56Mhz            | TC1 | 
 | FR2  |  The device shall receive data via RFID signal of 13.56Mhz             | TC2 | 
 | FR3  |  The device shall communicate to all NFC Data Exchange Formatted tags  | TC3 | 

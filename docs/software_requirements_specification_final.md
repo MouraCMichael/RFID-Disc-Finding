@@ -67,7 +67,7 @@ This section contains both the functional and non-functional requirements of thi
 
 <br/><br/>
 
-# Test Specification
+# Test Specifications
 
 This section outlines the unit, integration, and system test =s conducted on this project.  Each test reflects some aspect of the functional and non-functional requirements listed in the previous section.  A description of each test is provided along with the test input, expected output, actual output and whether or not the element in question passes the test.
 

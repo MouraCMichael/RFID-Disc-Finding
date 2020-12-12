@@ -9,29 +9,61 @@ This section contains both the functional and non-functional requirements of thi
 ### RFID Communication 
 | ID | Requirement | Test Cases |
 | :------------- | :---------- | :----------: | 
-| FR1  |  The device shall transmit data via RFID signal at 13.56Mhz            | TC1 | 
-| FR2  |  The device shall receive data via RFID signal of 13.56Mhz             | TC2 | 
-| FR3  |  The device shall communicate to all NFC Data Exchange Formatted tags  | TC3 | 
-| FR4  |  The device shall communicate with multiple NDEF tags                  | TC3 | 
-| FR5  |  The device shall communicate up to 10cm                               | TC3 | 
+| FR1  |  The device shall transmit data via RFID signal at 13.56Mhz                			| TC7, TC8 | 
+| FR2  |  The device shall receive data via RFID signal of 13.56Mhz             			| TC7, TC8 | 
+| FR3  |  The device shall communicate to all NFC Data Exchange Formatted tags  		| TC7, TC8 | 
+| FR4  |  The device shall communicate with multiple NDEF tags                  			| TC7, TC8 | 
+| FR5  |  The device shall communicate up to 10cm                               			| TC7, TC8 | 
 
 ### Display
 | ID | Requirement | Test Cases |
 | :------------- | :---------- | :----------: | 
-| FR6  |  The device shall display the tag name for every successfully read attempt          | TC1 |
-| FR7  |  The device shall display an error message for every unsuccessful read attempt      | TBD |
-| FR8  |  The device shall display a message when data has been successfully written to tag  | TC1 |
-| FR9  |  The device shall display an error message for every unsuccessful write to tag      | TC1 |
-| FR10 |  The display shall display when it is actively searching for the tag                | TC1 |
+| FR6  |  The device shall display the tag name for every successfully read attempt          		| TC1, TC9, TC10 |
+| FR7  |  The device shall display an error message for every unsuccessful read attempt  		| TC1, TC9, TC10 |
+| FR8  |  The device shall display a message when data has been successfully written to tag  	| TC1, TC9, TC10 |
+| FR9  |  The device shall display an error message for every unsuccessful write to tag      		| TC1, TC9, TC10 |
+| FR10 |  The display shall display when it is actively searching for the tag                		| TC1, TC9, TC10 |
 
 ### Interactive Switches
 | ID | Requirement | Test Cases |
 | :------------- | :---------- | :----------: | 
-| FR11 |  A switch shall power on and power off the device                               | TC1 |
-| FR12 |  A switch shall allow the user to toggle between reading and writing to a tag   | TBD |
-| FR13 |  A switch shall initiate the reading process                                    | TC1 |
-| FR14 |  A switch shall initiate the writing process                                    | TC1 |
-| FR15 |  A switch shall initiate a soft reset of the device                             | TC1 |  
+| FR11 |  A switch shall power on and power off the device                               			
+| FR12 |  A switch shall allow the user to toggle between reading and writing to a tag   		
+| FR13 |  A switch shall initiate the reading process                                   	 		| TC2 |
+| FR14 |  A switch shall initiate the writing process                                   			
+| FR15 |  A switch shall initiate a soft reset of the device                             			 
+
+<br/><br/>
+
+## Non-Functional Requirements 
+
+### RFID Communication 
+| ID | Requirement | Test Cases |
+| :------------- | :---------- | :----------: | 
+| NFR1 | The device shall reliably read data from tag          				 
+| NFR2 | The device shall reliably write data to tag           				 
+| NFR3 | The device shall easily switch between RFID signals   				 
+| NFR4 | The device shall not transmit with audible noise      				 
+| NFR5 | The device shall easily pair with the RFID tag        				 
+
+### Display 
+| ID | Requirement | Test Cases |
+| :------------- | :---------- | :----------: | 
+| NFR6   |  The display shall be easy to read                                                         			 
+| NFR7   |  The display shall noticeably change when near the device                                  		 
+| NFR8   |  The device shall provide feedback to the user about the RFID tag when searching  	 
+| NFR9   |  The device shall provide accurate character feedback prior to writing data                	TC3, TC4, TC5, TC6
+| NFR10 |  The device shall have intuitive screen layouts                                            		 
+
+### Interactive Switches 
+| ID | Requirement | Test Cases |
+| :-------------: | :----------: | :----------: | 
+| NFR1 |  The power switch shall be in a location easy to press       				 
+| NFR2 |  The soft reset switch shall be in a location easy to press  				 
+| NFR3 |  The switches shall not interfere with holding the device    			 
+| NFR4 |  The switches must not interfere with reading the display    			 
+| NFR5 |  The switch layout must be intuitive                         
+
 
 <br/><br/>
 

@@ -124,7 +124,7 @@ This section provides links to all of the software artifacts and project documen
 
 * [State Machine Final]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/state_machine_final.pdf )
 
-* [Final Presentation]()
+* [Final Presentation](https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/DiscFinders%20Final%20Presentation.pdf)
 
 * [Code Revisions]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/tree/master/CodeRevisions)
 

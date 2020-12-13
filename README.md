@@ -39,3 +39,35 @@ Be sure to allow enough space for local variables durring runtime.
 
 
 <img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/101992112-d874a100-3c7e-11eb-9840-a6306b19d096.JPG">
+
+
+
+## Artifacts
+
+* [Project Proposal]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Proposal.md)
+
+* [Research and Documentation]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/artifacts/Research%20and%20Documentation.pdf)
+
+* [Program Library Details]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/artifacts/Program%20Library%20Details.pdf)
+
+* [Arduino Library Install Guide]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/artifacts/RFID%20Shield%20Library%20Install%20Directions.pdf)
+
+* [Design Proposals 1]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/artifacts/Design%20Proposal%201.pdf)
+
+* [Project Timeline](https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Gantt%20Chart.pdf)
+
+* [Assigned Tasks Overview]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Tasks.md)
+
+* [SRS Midterm]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/software_requirements_specification.md )
+
+* [Use Case Diagrams]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/tree/master/artifacts )
+
+* [Midterm Presentation]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Midterm%20Presentation.pdf )
+
+* [State Machine Final]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/state_machine_final.pdf )
+
+* [Final Presentation](https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/DiscFinders%20Final%20Presentation.pdf)
+
+* [Code Revisions]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/tree/master/CodeRevisions)
+
+* [Meeting Minutes]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/tree/master/meetings )

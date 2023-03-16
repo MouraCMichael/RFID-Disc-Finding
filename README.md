@@ -43,10 +43,46 @@ THE FIX - Remove the libraries you aren't using. I removed Wire.h , SD.h , and A
 
 Be sure to allow enough space for local variables durring runtime.
 
+<br/>
+
+<p align="center">
+
+<br/>
+<br/>
+<br/>
+
+<img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/225679746-87772145-4358-42fe-a14d-2fcd94998303.JPG">
+
+<br/>
+<br/>
+
+<img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/225679916-890ac1fe-41ef-4547-9d6c-1a82bc1dd733.JPG ">
+
+<br/>
+<br/>
 
 <img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/101992112-d874a100-3c7e-11eb-9840-a6306b19d096.JPG">
 
 <br/>
+<br/>
+
+<img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/225680032-45d03e95-0934-40ad-896a-e6689a87faa5.JPG">
+
+<br/>
+<br/>
+
+<img align = "center" width="432"  height = "600" src = "">
+
+<br/>
+<br/>
+
+
+
+
+
+
+
+
 
 ## Artifacts
 

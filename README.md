@@ -71,19 +71,6 @@ Be sure to allow enough space for local variables durring runtime.
 <br/>
 <br/>
 
-<img align = "center" width="432"  height = "600" src = "">
-
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-
 ## Artifacts
 
 * [Project Proposal]( https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/docs/Proposal.md)

@@ -31,7 +31,7 @@ All disc golfers will eventually throw a bad shot on the course.  Sometimes they
 9. Attach the LCD shield and upload the [latest program version](https://github.com/MouraCMichael/GVSU-CIS350-DiscFinders/blob/master/CodeRevisions/RFID_2.1.ino)
 10.Run the program and test that the features work correctly.
 
-IMPORTANT FYI for Expanding Current Program - The libraries that Adafruit have made for these shields are large. If you include all of them, you will experience instability due to RAM restrictions on the R3 Uno.
+IMPORTANT FYI for Expanding Current Program - The libraries that Adafruit have made for these shields are large. If you include all of them, you will experience instability due to limited RAM on the R3 Uno.
 
 THE FIX - Remove the libraries you aren't using. I removed Wire.h , SD.h , and Adafruit_GFX.h
 

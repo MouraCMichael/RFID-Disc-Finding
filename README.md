@@ -2,10 +2,14 @@
 
 All disc golfers will eventually throw a bad shot on the course.  Sometimes they are so bad, it can be difficult to find where the disc landed.  This project is dedicated to helping speed up the search process, and prevent players from losing discs.  Our goal is to write an arduino program which impliments RFID technology to accomplish this task.
 
-## Team Members and Roles
+<br/>
+
+## Contributors
 
 * [Timothy Beler](https://github.com/at-a-minimum1/CIS350-HW2-BELER)
 * [Corey Moura](https://github.com/MouraCMichael/CIS350-HW2-Moura.git)
+
+<br/>
 
 ## Required Hardware
 
@@ -17,6 +21,8 @@ All disc golfers will eventually throw a bad shot on the course.  Sometimes they
 * [Female Jumper Wires](https://www.sparkfun.com/products/12796)
 * [Powerboost 500 (Optional)](https://www.adafruit.com/product/2078)
 * [Lithium Battery (Optional)](https://www.adafruit.com/product/2011)
+
+<br/>
 
 ## Run Instructions
 
@@ -40,7 +46,7 @@ Be sure to allow enough space for local variables durring runtime.
 
 <img align = "center" width="432"  height = "600" src = "https://user-images.githubusercontent.com/37875517/101992112-d874a100-3c7e-11eb-9840-a6306b19d096.JPG">
 
-
+<br/>
 
 ## Artifacts
 
